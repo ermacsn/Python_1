@@ -39,5 +39,7 @@ for i in word:
     if dict_rus.get(i) is not None:
         result_rus += dict_rus.get(i)
 
-print(result_eng)
-print(result_rus)
+if result_eng != 0:
+    print(result_eng)
+if result_rus != 0:
+    print(result_rus)
