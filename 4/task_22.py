@@ -21,6 +21,7 @@ for i in range(m):
 set_n = set(list_n)
 set_m = set(list_m)
 set_ = set_n.intersection(set_m)
-list_ = sorted(set_)
+list_ = list(set_)
+result = sorted([int(item) for item in list_])
+print(*result)
 
-print('Отсортированное пересечение: ', list_)
