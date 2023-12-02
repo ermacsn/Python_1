@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507f6967-6b28-477d-a320-8c2c7753f542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../8/.idea/8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/california_housing_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/df2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/file_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/penguins.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-10/task_57.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2YiLEfJ477YjIT7DCgMg7MAEPz1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,11 +29,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ermac_/Work/GeekBrains/Programming/Python/Practica/9-10",
+    "last_opened_file_path": "/home/ermac_/Work/GeekBrains/Programming/Python/Practica/10",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
